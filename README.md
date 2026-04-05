@@ -41,7 +41,7 @@
     * **적용 내용:** AI가 1차 과제 요건(변수5개, 자료형3개 이상)을 충족하는지 알려주고 몇개씩 들어갔는지 자세하게 알려주었음.
     
 ### **📁 증빙 자료:**
-  * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)[1차_AI협업캡처.pdf](https://github.com/jonghack1111/mju-py-homework-jonghack1111/blob/main/%EC%96%91%EC%A2%85%ED%98%81_ai_.pdf?raw=true)
+  * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)[1차_AI협업캡처.pdf 첨부 완료](양종혁_ai_.pdf?raw=true)
 
 <br>
 
